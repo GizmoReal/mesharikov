@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.text__text {
+    font-family: "Inter";
+    padding: 8px 917px 8px 810px;
+    font-weight: 700;
+    font-size: 32px;
+}
+.Misha__image {
+    padding-left: 400px;
+}
+.desc__text {
+    margin-top: -20px
+}
